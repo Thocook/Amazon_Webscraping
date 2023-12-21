@@ -14,14 +14,6 @@ This project utilizes Python and leverages key libraries such as `requests`, `Be
 - **Data Manipulation:** Utilizes the power of Python and the `pandas` library to structure and organize the scraped data into a database format.
 - **Data Visualization:** Employing `seaborn` and `matplotlib` for visual representations, providing insights into the distribution of product-related information.
 
-## Getting Started
-
-To get started with the project, follow these steps:
-
-1. Clone the repository to your local machine.
-2. Install the necessary dependencies using the provided `requirements.txt` file.
-3. Explore the Jupyter Notebook or Python script to understand the web scraping and data visualization processes.
-
 ## Dependencies
 
 - Python 3.x
@@ -34,7 +26,7 @@ To get started with the project, follow these steps:
 
 ## Example Usage
 
-Explore the provided example in the script to see how the web scraping function extracts information from a sample Amazon product URL, creating a Pandas DataFrame for analysis and visualization.
+Explore the provided example for Maple Syrup in the script to see how the web scraping function extracts information from a sample Amazon product URL, creating a Pandas DataFrame for analysis and visualization.
 
 ## Contributions
 
